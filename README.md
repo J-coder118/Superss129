@@ -21,6 +21,24 @@ You can click the Preview link to take a look at your changes.
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+<br>
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+    <img src="https://github-profile-trophy.vercel.app/?username=aimardev&column=5&theme=onedark" width="100%" />
+</div>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+</p>
+
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aimardev&show_icons=true&theme=blueberry&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aimardev&theme=blueberry&hide_border=true" />
+</p>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+</p>
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=Superss129&show_icons=true&bg_color=00000000&hide_title=true"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superss129&layout=compact&bg_color=0000000">
