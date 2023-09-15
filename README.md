@@ -1,6 +1,6 @@
-<!--
--- 👋 Hi, I’m @Superss129
-- 👀 I’m interested in ...
+
+ 👋 Hi, I’m Dusan Simic
+<!--- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/python-3.9-blue)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+<!![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 <br>
@@ -36,8 +36,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aimardev&show_icons=true&theme=blueberry&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aimardev&theme=blueberry&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ss&show_icons=true&theme=blueberry&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ss&theme=blueberry&hide_border=true" />
 </p>
 
 
