@@ -22,6 +22,10 @@ You can click the Preview link to take a look at your changes.
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 <br>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+</p>
+
 <div>
   <h4>🏆 Github Profile Trophy</h4>
     <img src="https://github-profile-trophy.vercel.app/?username=aimardev&column=5&theme=onedark" width="100%" />
@@ -36,9 +40,6 @@ You can click the Preview link to take a look at your changes.
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aimardev&theme=blueberry&hide_border=true" />
 </p>
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-hacki&theme=react-dark"/>
